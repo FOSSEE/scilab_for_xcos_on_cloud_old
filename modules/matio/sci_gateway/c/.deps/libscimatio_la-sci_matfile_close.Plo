@@ -1,7 +1,7 @@
 sci_gateway/c/libscimatio_la-sci_matfile_close.lo: \
  sci_gateway/c/sci_matfile_close.c /usr/include/stdc-predef.h \
  src/c/matfile_manager.h \
- /home/shashank/scilab-master_5.5.2/usr/include/matio.h \
+ /home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/matio.h \
  /usr/include/stdlib.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -32,7 +32,7 @@ sci_gateway/c/libscimatio_la-sci_matfile_close.lo: \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
- /home/shashank/scilab-master_5.5.2/usr/include/matio_pubconf.h \
+ /home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/matio_pubconf.h \
  /usr/include/inttypes.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h \
  /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
  ../../modules/localization/includes/localization.h \
@@ -102,7 +102,7 @@ sci_gateway/c/libscimatio_la-sci_matfile_close.lo: \
 
 src/c/matfile_manager.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/matio.h:
+/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/matio.h:
 
 /usr/include/stdlib.h:
 
@@ -178,7 +178,7 @@ src/c/matfile_manager.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/matio_pubconf.h:
+/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/matio_pubconf.h:
 
 /usr/include/inttypes.h:
 

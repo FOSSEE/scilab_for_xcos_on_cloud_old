@@ -20,7 +20,7 @@ sci_gateway/c/libscistring_la-sci_grep.lo: sci_gateway/c/sci_grep.c \
  /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/string3.h includes/gw_string.h \
  includes/dynlib_string.h \
- /home/shashank/scilab-master_5.5.2/usr/include/pcre.h \
+ /home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/pcre.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
@@ -34,7 +34,7 @@ sci_gateway/c/libscistring_la-sci_grep.lo: sci_gateway/c/sci_grep.c \
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
- /home/shashank/scilab-master_5.5.2/usr/include/pcreposix.h \
+ /home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/pcreposix.h \
  ../../modules/core/includes/stack-c.h \
  ../../modules/core/includes/core_math.h \
  /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
@@ -140,7 +140,7 @@ includes/gw_string.h:
 
 includes/dynlib_string.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/pcre.h:
+/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/pcre.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
@@ -172,7 +172,7 @@ includes/dynlib_string.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/pcreposix.h:
+/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/pcreposix.h:
 
 ../../modules/core/includes/stack-c.h:
 

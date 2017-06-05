@@ -10,4 +10,4 @@ URL: http://www.scilab.org
 Version: 5.5.2
 Requires: libxml-2.0 libpcre
 Libs: -L${libdir} -lscilab
-Cflags: -I${includedir} -lieee -lSM -lncurses  -L/home/shashank/scilab-master_5.5.2/usr/lib -ltk8.5   -L/home/shashank/scilab-master_5.5.2/usr/lib -ltcl8.5  -ldl
+Cflags: -I${includedir} -lieee -lSM -lncurses  -L/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/lib -ltk8.5   -L/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/lib -ltcl8.5  -ldl

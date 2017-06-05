@@ -69,7 +69,7 @@ sci_gateway/c/libscistring_la-sci_regexp.lo: sci_gateway/c/sci_regexp.c \
  ../../modules/core/includes/freeArrayOfString.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
- /home/shashank/scilab-master_5.5.2/usr/include/pcre.h \
+ /home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/pcre.h \
  includes/pcre_private.h src/c/pcre_error.h \
  ../../modules/output_stream/includes/Scierror.h \
  ../../modules/output_stream/includes/do_error_number.h \
@@ -250,7 +250,7 @@ includes/dynlib_string.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar2.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/pcre.h:
+/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/pcre.h:
 
 includes/pcre_private.h:
 
