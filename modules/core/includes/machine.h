@@ -16,10 +16,10 @@
 #define CNAME(name1,name2) name1##name2
 
 /* CURL flags */
-#define CURL_CFLAGS "-I/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include"
+#define CURL_CFLAGS "-I/home/shashank/scilab-master_5.5.2/usr/include"
 
 /* CURL library */
-#define CURL_LIBS "-L/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/lib -lcurl -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -lssl -lcrypto -lrt -lz"
+#define CURL_LIBS "-L/home/shashank/scilab-master_5.5.2/usr/lib -lcurl -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -lssl -lcrypto -lrt -lz"
 
 /* CURL version */
 #define CURL_VERSION "libcurl 7.19.7"
@@ -431,10 +431,10 @@
 #define INSTALLPREFIX "/usr/local"
 
 /* libXML2 flags */
-#define LIBXML_FLAGS "-I/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include/libxml2"
+#define LIBXML_FLAGS "-I/home/shashank/scilab-master_5.5.2/usr/include/libxml2"
 
 /* libXML2 library */
-#define LIBXML_LIBS "-L/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/lib -lxml2 -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -lz -lm -ldl"
+#define LIBXML_LIBS "-L/home/shashank/scilab-master_5.5.2/usr/lib -lxml2 -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -lz -lm -ldl"
 
 /* Define to 1 if `lstat' dereferences a symlink specified with a trailing
    slash. */
@@ -472,10 +472,10 @@
 #define PATH_SEPARATOR ":"
 
 /* PCRE flags */
-#define PCRE_CFLAGS "-I/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/include"
+#define PCRE_CFLAGS "-I/home/shashank/scilab-master_5.5.2/usr/include"
 
 /* PCRE library */
-#define PCRE_LIBS "-L/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/lib -lpcreposix -lpcre"
+#define PCRE_LIBS "-L/home/shashank/scilab-master_5.5.2/usr/lib -lpcreposix -lpcre"
 
 /* PCRE version */
 #define PCRE_VERSION "8.35"

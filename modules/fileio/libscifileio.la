@@ -17,7 +17,7 @@ old_library='libscifileio.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/home/shivendra/IIT-Bombay/scilab_for_xcos/usr/lib -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -lcurl -lssl -lcrypto -lrt -lz -lpthread -ldl -lcurses -lm'
+dependency_libs=' -L/home/shashank/scilab-master_5.5.2/usr/lib -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -lcurl -lssl -lcrypto -lrt -lz -lpthread -ldl -lcurses -lm'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
