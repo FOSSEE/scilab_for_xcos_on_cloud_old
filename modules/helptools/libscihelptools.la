@@ -17,7 +17,7 @@ old_library=''
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' /home/shashank/scilab-master_5.5.2/modules/commons/libscicommons.la -lpthread -ldl -lcurses'
+dependency_libs=' /home/shivendra/IIT/updated/scilab_for_xcos/modules/commons/libscicommons.la -lpthread -ldl -lcurses'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -39,4 +39,4 @@ dlpreopen=''
 
 # Directory that this library needs to be installed in:
 libdir='/usr/local/lib/scilab'
-relink_command="(cd /home/shashank/scilab-master_5.5.2/modules/helptools; /bin/bash /home/shashank/scilab-master_5.5.2/libtool  --tag CXX --mode=relink g++ -DNDEBUG -fno-stack-protector -g -O2 -version-number 5:5:2 -Wl,--no-as-needed -o libscihelptools.la -rpath /usr/local/lib/scilab sci_gateway/c/libscihelptools_la-gw_helptools.lo sci_gateway/cpp/libscihelptools_la-sci_buildDoc.lo libscihelptools-algo.la ../../modules/commons/libscicommons.la -lpthread -ldl -lcurses -lm @inst_prefix_dir@)"
+relink_command="(cd /home/shivendra/IIT/updated/scilab_for_xcos/modules/helptools; /bin/bash /home/shivendra/IIT/updated/scilab_for_xcos/libtool  --tag CXX --mode=relink g++ -DNDEBUG -fno-stack-protector -g -O2 -version-number 5:5:2 -Wl,--no-as-needed -o libscihelptools.la -rpath /usr/local/lib/scilab sci_gateway/c/libscihelptools_la-gw_helptools.lo sci_gateway/cpp/libscihelptools_la-sci_buildDoc.lo libscihelptools-algo.la ../../modules/commons/libscicommons.la -lpthread -ldl -lcurses -lm @inst_prefix_dir@)"

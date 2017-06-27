@@ -80,41 +80,41 @@ sci_gateway/c/libsciumfpack_la-sci_umf_lusolve.lo: \
  ../../modules/core/includes/sci_types.h includes/gw_umfpack.h \
  includes/dynlib_umfpack.h src/c/sciumfpack.h \
  ../../modules/core/includes/machine.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack.h \
- /home/shashank/scilab-master_5.5.2/usr/include/SuiteSparse_config.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_symbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_numeric.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_solve.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_free_symbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_free_numeric.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_defaults.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_qsymbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_wsolve.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_triplet_to_col.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_col_to_triplet.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_transpose.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_scale.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_lunz.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_numeric.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_symbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_save_numeric.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_load_numeric.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_save_symbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_load_symbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_determinant.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_status.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_info.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_control.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_matrix.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_triplet.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_vector.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_symbolic.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_numeric.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_perm.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_timer.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_tictoc.h \
- /home/shashank/scilab-master_5.5.2/usr/include/amd.h \
- /home/shashank/scilab-master_5.5.2/usr/include/umfpack_global.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/SuiteSparse_config.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_symbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_numeric.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_solve.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_free_symbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_free_numeric.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_defaults.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_qsymbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_wsolve.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_triplet_to_col.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_col_to_triplet.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_transpose.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_scale.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_lunz.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_numeric.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_symbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_save_numeric.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_load_numeric.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_save_symbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_load_symbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_determinant.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_status.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_info.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_control.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_matrix.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_triplet.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_vector.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_symbolic.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_numeric.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_perm.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_timer.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_tictoc.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/amd.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_global.h \
  ../../modules/core/includes/stackTypeVariable.h src/c/taucs_scilab.h \
  src/c/common_umfpack.h ../../modules/core/includes/scisparse.h \
  ../../modules/output_stream/includes/Scierror.h \
@@ -313,75 +313,75 @@ src/c/sciumfpack.h:
 
 ../../modules/core/includes/machine.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/SuiteSparse_config.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/SuiteSparse_config.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_symbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_symbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_numeric.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_numeric.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_solve.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_solve.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_free_symbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_free_symbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_free_numeric.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_free_numeric.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_defaults.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_defaults.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_qsymbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_qsymbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_wsolve.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_wsolve.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_triplet_to_col.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_triplet_to_col.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_col_to_triplet.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_col_to_triplet.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_transpose.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_transpose.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_scale.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_scale.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_lunz.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_lunz.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_numeric.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_numeric.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_symbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_symbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_save_numeric.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_save_numeric.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_load_numeric.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_load_numeric.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_save_symbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_save_symbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_load_symbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_load_symbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_get_determinant.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_get_determinant.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_status.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_status.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_info.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_info.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_control.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_control.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_matrix.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_matrix.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_triplet.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_triplet.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_vector.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_vector.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_symbolic.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_symbolic.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_numeric.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_numeric.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_report_perm.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_report_perm.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_timer.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_timer.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_tictoc.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_tictoc.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/amd.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/amd.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/umfpack_global.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/umfpack_global.h:
 
 ../../modules/core/includes/stackTypeVariable.h:
 

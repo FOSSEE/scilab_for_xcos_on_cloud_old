@@ -21,7 +21,7 @@ sci_gateway/c/libscistring_la-sci_strindex.lo: \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/ctype.h \
  includes/gw_string.h includes/dynlib_string.h \
- /home/shashank/scilab-master_5.5.2/usr/include/pcre.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/pcre.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
@@ -142,7 +142,7 @@ includes/gw_string.h:
 
 includes/dynlib_string.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/pcre.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/pcre.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 

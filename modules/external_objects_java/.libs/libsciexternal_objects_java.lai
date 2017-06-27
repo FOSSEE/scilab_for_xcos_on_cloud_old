@@ -17,7 +17,7 @@ old_library=''
 inherited_linker_flags=' -pthread'
 
 # Libraries that this one depends upon.
-dependency_libs=' /usr/local/lib/scilab/libscicommons.la /usr/local/lib/scilab/libscijvm.la -L/home/shashank/scilab-master_5.5.2/usr/lib -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -L/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64 -L/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server -lxml2 -lz -ljava -lverify -ljvm -lpthread -ldl -lcurses'
+dependency_libs=' /usr/local/lib/scilab/libscicommons.la /usr/local/lib/scilab/libscijvm.la -L/home/shivendra/IIT/updated/scilab_for_xcos/usr/lib -L/home/scilab/work/linux-prerequisites-sources/trunk/Dev-Tools/SE/Prerequirements/linux_x64/usr/lib -L/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64 -L/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server -lxml2 -lz -ljava -lverify -ljvm -lpthread -ldl -lcurses'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

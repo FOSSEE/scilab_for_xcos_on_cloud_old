@@ -1,6 +1,6 @@
 src/c/libscitclsci_algo_la-GlobalTclInterp.lo: src/c/GlobalTclInterp.c \
  /usr/include/stdc-predef.h includes/GlobalTclInterp.h \
- /home/shashank/scilab-master_5.5.2/usr/include/tcl.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tcl.h \
  /usr/include/stdio.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -15,9 +15,9 @@ src/c/libscitclsci_algo_la-GlobalTclInterp.lo: src/c/GlobalTclInterp.c \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
- /home/shashank/scilab-master_5.5.2/usr/include/tclDecls.h \
- /home/shashank/scilab-master_5.5.2/usr/include/tclPlatDecls.h \
- /home/shashank/scilab-master_5.5.2/usr/include/tk.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclDecls.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclPlatDecls.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tk.h \
  /usr/include/X11/Xlib.h /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/time.h /usr/include/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endian.h \
@@ -31,7 +31,7 @@ src/c/libscitclsci_algo_la-GlobalTclInterp.lo: src/c/GlobalTclInterp.c \
  /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/X11/X.h \
  /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
- /home/shashank/scilab-master_5.5.2/usr/include/tkDecls.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tkDecls.h \
  ../../modules/core/includes/BOOL.h \
  ../../modules/core/includes/Thread_Wrapper.h /usr/include/pthread.h \
  /usr/include/sched.h /usr/include/x86_64-linux-gnu/bits/sched.h \
@@ -41,7 +41,7 @@ src/c/libscitclsci_algo_la-GlobalTclInterp.lo: src/c/GlobalTclInterp.c \
 
 includes/GlobalTclInterp.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/tcl.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tcl.h:
 
 /usr/include/stdio.h:
 
@@ -77,11 +77,11 @@ includes/GlobalTclInterp.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/tclDecls.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclDecls.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/tclPlatDecls.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclPlatDecls.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/tk.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tk.h:
 
 /usr/include/X11/Xlib.h:
 
@@ -117,7 +117,7 @@ includes/GlobalTclInterp.h:
 
 /usr/include/X11/Xosdefs.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/tkDecls.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tkDecls.h:
 
 ../../modules/core/includes/BOOL.h:
 

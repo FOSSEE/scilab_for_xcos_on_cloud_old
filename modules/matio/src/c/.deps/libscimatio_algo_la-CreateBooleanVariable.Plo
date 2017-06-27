@@ -79,13 +79,13 @@ src/c/libscimatio_algo_la-CreateBooleanVariable.lo: \
  ../../modules/core/includes/core_math.h \
  ../../modules/core/includes/sci_types.h src/c/CreateMatlabVariable.h \
  src/c/matfile_manager.h \
- /home/shashank/scilab-master_5.5.2/usr/include/matio.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/matio.h \
  /usr/include/libio.h /usr/include/_G_config.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
- /home/shashank/scilab-master_5.5.2/usr/include/matio_pubconf.h \
+ /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/matio_pubconf.h \
  /usr/include/inttypes.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h \
  /usr/include/stdint.h ../../modules/core/includes/MALLOC.h \
  ../../modules/core/includes/sci_mem_alloc.h \
@@ -281,7 +281,7 @@ src/c/CreateMatlabVariable.h:
 
 src/c/matfile_manager.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/matio.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/matio.h:
 
 /usr/include/libio.h:
 
@@ -295,7 +295,7 @@ src/c/matfile_manager.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
-/home/shashank/scilab-master_5.5.2/usr/include/matio_pubconf.h:
+/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/matio_pubconf.h:
 
 /usr/include/inttypes.h:
 
