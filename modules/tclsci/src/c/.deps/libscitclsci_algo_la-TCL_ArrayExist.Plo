@@ -33,13 +33,13 @@ src/c/libscitclsci_algo_la-TCL_ArrayExist.lo: src/c/TCL_ArrayExist.c \
  /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
  /usr/include/x86_64-linux-gnu/bits/string2.h \
  /usr/include/x86_64-linux-gnu/bits/string3.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tcl.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclDecls.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclPlatDecls.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tk.h \
- /usr/include/X11/Xlib.h /usr/include/X11/X.h \
- /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tkDecls.h \
+ /home/shashank/scilab_for_xcos/usr/include/tcl.h \
+ /home/shashank/scilab_for_xcos/usr/include/tclDecls.h \
+ /home/shashank/scilab_for_xcos/usr/include/tclPlatDecls.h \
+ /home/shashank/scilab_for_xcos/usr/include/tk.h /usr/include/X11/Xlib.h \
+ /usr/include/X11/X.h /usr/include/X11/Xfuncproto.h \
+ /usr/include/X11/Xosdefs.h \
+ /home/shashank/scilab_for_xcos/usr/include/tkDecls.h \
  includes/dynlib_tclsci.h ../../modules/core/includes/stack-c.h \
  ../../modules/core/includes/core_math.h \
  /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
@@ -169,13 +169,13 @@ includes/TCL_Global.h:
 
 /usr/include/x86_64-linux-gnu/bits/string3.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tcl.h:
+/home/shashank/scilab_for_xcos/usr/include/tcl.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclDecls.h:
+/home/shashank/scilab_for_xcos/usr/include/tclDecls.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclPlatDecls.h:
+/home/shashank/scilab_for_xcos/usr/include/tclPlatDecls.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tk.h:
+/home/shashank/scilab_for_xcos/usr/include/tk.h:
 
 /usr/include/X11/Xlib.h:
 
@@ -185,7 +185,7 @@ includes/TCL_Global.h:
 
 /usr/include/X11/Xosdefs.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tkDecls.h:
+/home/shashank/scilab_for_xcos/usr/include/tkDecls.h:
 
 includes/dynlib_tclsci.h:
 

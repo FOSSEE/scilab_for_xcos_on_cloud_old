@@ -20,12 +20,12 @@ src/c/libscitclsci_algo_la-setvar.lo: src/c/setvar.c \
  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
  /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/string3.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tcl.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclDecls.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclPlatDecls.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tk.h \
- /usr/include/X11/Xlib.h /usr/include/x86_64-linux-gnu/sys/types.h \
- /usr/include/time.h /usr/include/x86_64-linux-gnu/sys/select.h \
+ /home/shashank/scilab_for_xcos/usr/include/tcl.h \
+ /home/shashank/scilab_for_xcos/usr/include/tclDecls.h \
+ /home/shashank/scilab_for_xcos/usr/include/tclPlatDecls.h \
+ /home/shashank/scilab_for_xcos/usr/include/tk.h /usr/include/X11/Xlib.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/x86_64-linux-gnu/bits/select.h \
  /usr/include/x86_64-linux-gnu/bits/sigset.h \
  /usr/include/x86_64-linux-gnu/bits/time.h \
@@ -33,7 +33,7 @@ src/c/libscitclsci_algo_la-setvar.lo: src/c/setvar.c \
  /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/X11/X.h \
  /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tkDecls.h \
+ /home/shashank/scilab_for_xcos/usr/include/tkDecls.h \
  includes/dynlib_tclsci.h ../../modules/core/includes/stack-c.h \
  ../../modules/core/includes/core_math.h \
  /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
@@ -138,13 +138,13 @@ includes/TCL_Global.h:
 
 /usr/include/x86_64-linux-gnu/bits/string3.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tcl.h:
+/home/shashank/scilab_for_xcos/usr/include/tcl.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclDecls.h:
+/home/shashank/scilab_for_xcos/usr/include/tclDecls.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tclPlatDecls.h:
+/home/shashank/scilab_for_xcos/usr/include/tclPlatDecls.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tk.h:
+/home/shashank/scilab_for_xcos/usr/include/tk.h:
 
 /usr/include/X11/Xlib.h:
 
@@ -172,7 +172,7 @@ includes/TCL_Global.h:
 
 /usr/include/X11/Xosdefs.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/tkDecls.h:
+/home/shashank/scilab_for_xcos/usr/include/tkDecls.h:
 
 includes/dynlib_tclsci.h:
 

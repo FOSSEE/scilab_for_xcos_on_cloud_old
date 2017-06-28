@@ -20,8 +20,8 @@ src/c/libscicore_algo_la-getstaticdebuginfo.lo: \
  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
  /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/string3.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/libxml2/libxml/xmlversion.h \
- /home/shivendra/IIT/updated/scilab_for_xcos/usr/include/libxml2/libxml/xmlexports.h \
+ /home/shashank/scilab_for_xcos/usr/include/libxml2/libxml/xmlversion.h \
+ /home/shashank/scilab_for_xcos/usr/include/libxml2/libxml/xmlexports.h \
  ../../modules/core/includes/MALLOC.h \
  ../../modules/core/includes/sci_mem_alloc.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
@@ -95,9 +95,9 @@ src/c/libscicore_algo_la-getstaticdebuginfo.lo: \
 
 /usr/include/x86_64-linux-gnu/bits/string3.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/libxml2/libxml/xmlversion.h:
+/home/shashank/scilab_for_xcos/usr/include/libxml2/libxml/xmlversion.h:
 
-/home/shivendra/IIT/updated/scilab_for_xcos/usr/include/libxml2/libxml/xmlexports.h:
+/home/shashank/scilab_for_xcos/usr/include/libxml2/libxml/xmlexports.h:
 
 ../../modules/core/includes/MALLOC.h:
 
