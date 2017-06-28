@@ -29,15 +29,15 @@ src/c/libscitclsci_algo_la-TCL_Command.lo: src/c/TCL_Command.c \
  /usr/include/x86_64-linux-gnu/bits/unistd.h \
  ../../modules/core/includes/MALLOC.h \
  ../../modules/core/includes/sci_mem_alloc.h src/c/TCL_Command.h \
- /home/shashank/scilab_for_xcos/usr/include/tcl.h /usr/include/stdio.h \
- /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tcl.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
- /home/shashank/scilab_for_xcos/usr/include/tclDecls.h \
- /home/shashank/scilab_for_xcos/usr/include/tclPlatDecls.h \
+ /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tclDecls.h \
+ /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tclPlatDecls.h \
  /usr/include/string.h /usr/include/xlocale.h \
  /usr/include/x86_64-linux-gnu/bits/string.h \
  /usr/include/x86_64-linux-gnu/bits/string2.h \
@@ -45,10 +45,10 @@ src/c/libscitclsci_algo_la-TCL_Command.lo: src/c/TCL_Command.c \
  ../../modules/core/includes/Thread_Wrapper.h /usr/include/pthread.h \
  /usr/include/sched.h /usr/include/x86_64-linux-gnu/bits/sched.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h includes/GlobalTclInterp.h \
- /home/shashank/scilab_for_xcos/usr/include/tk.h /usr/include/X11/Xlib.h \
- /usr/include/X11/X.h /usr/include/X11/Xfuncproto.h \
- /usr/include/X11/Xosdefs.h \
- /home/shashank/scilab_for_xcos/usr/include/tkDecls.h \
+ /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tk.h \
+ /usr/include/X11/Xlib.h /usr/include/X11/X.h \
+ /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
+ /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tkDecls.h \
  ../../modules/core/includes/BOOL.h
 
 /usr/include/stdc-predef.h:
@@ -127,7 +127,7 @@ src/c/libscitclsci_algo_la-TCL_Command.lo: src/c/TCL_Command.c \
 
 src/c/TCL_Command.h:
 
-/home/shashank/scilab_for_xcos/usr/include/tcl.h:
+/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tcl.h:
 
 /usr/include/stdio.h:
 
@@ -147,9 +147,9 @@ src/c/TCL_Command.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
-/home/shashank/scilab_for_xcos/usr/include/tclDecls.h:
+/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tclDecls.h:
 
-/home/shashank/scilab_for_xcos/usr/include/tclPlatDecls.h:
+/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tclPlatDecls.h:
 
 /usr/include/string.h:
 
@@ -173,7 +173,7 @@ src/c/TCL_Command.h:
 
 includes/GlobalTclInterp.h:
 
-/home/shashank/scilab_for_xcos/usr/include/tk.h:
+/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tk.h:
 
 /usr/include/X11/Xlib.h:
 
@@ -183,6 +183,6 @@ includes/GlobalTclInterp.h:
 
 /usr/include/X11/Xosdefs.h:
 
-/home/shashank/scilab_for_xcos/usr/include/tkDecls.h:
+/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/tkDecls.h:
 
 ../../modules/core/includes/BOOL.h:
