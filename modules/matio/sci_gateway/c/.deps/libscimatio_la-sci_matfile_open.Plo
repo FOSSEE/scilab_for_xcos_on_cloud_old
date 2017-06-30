@@ -80,13 +80,13 @@ sci_gateway/c/libscimatio_la-sci_matfile_open.lo: \
  ../../modules/core/includes/sci_types.h \
  ../../modules/core/includes/MALLOC.h \
  ../../modules/core/includes/sci_mem_alloc.h src/c/matfile_manager.h \
- /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/matio.h \
+ /home/shivendra/final/scilab_for_xcos/usr/include/matio.h \
  /usr/include/libio.h /usr/include/_G_config.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
- /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/matio_pubconf.h \
+ /home/shivendra/final/scilab_for_xcos/usr/include/matio_pubconf.h \
  /usr/include/inttypes.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h \
  /usr/include/stdint.h includes/gw_matio.h includes/dynlib_matio.h \
  ../../modules/localization/includes/localization.h \
@@ -281,7 +281,7 @@ sci_gateway/c/libscimatio_la-sci_matfile_open.lo: \
 
 src/c/matfile_manager.h:
 
-/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/matio.h:
+/home/shivendra/final/scilab_for_xcos/usr/include/matio.h:
 
 /usr/include/libio.h:
 
@@ -295,7 +295,7 @@ src/c/matfile_manager.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
-/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/matio_pubconf.h:
+/home/shivendra/final/scilab_for_xcos/usr/include/matio_pubconf.h:
 
 /usr/include/inttypes.h:
 

@@ -36,7 +36,7 @@ src/c/libscistring_algo_la-pcre_private.lo: src/c/pcre_private.c \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/pcre.h \
+ /home/shivendra/final/scilab_for_xcos/usr/include/pcre.h \
  ../../modules/core/includes/MALLOC.h \
  ../../modules/core/includes/sci_mem_alloc.h \
  ../../modules/core/includes/BOOL.h includes/pcre_private.h \
@@ -56,7 +56,7 @@ src/c/libscistring_algo_la-pcre_private.lo: src/c/pcre_private.c \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp2.h src/c/ucp.h \
  src/c/pcre_tables.c src/c/config.h \
- /home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/pcreposix.h
+ /home/shivendra/final/scilab_for_xcos/usr/include/pcreposix.h
 
 /usr/include/stdc-predef.h:
 
@@ -162,7 +162,7 @@ src/c/libscistring_algo_la-pcre_private.lo: src/c/pcre_private.c \
 
 /usr/include/asm-generic/errno-base.h:
 
-/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/pcre.h:
+/home/shivendra/final/scilab_for_xcos/usr/include/pcre.h:
 
 ../../modules/core/includes/MALLOC.h:
 
@@ -218,4 +218,4 @@ src/c/pcre_tables.c:
 
 src/c/config.h:
 
-/home/shivendra/IIT/xcos_on_web/updates/scilab_for_xcos/usr/include/pcreposix.h:
+/home/shivendra/final/scilab_for_xcos/usr/include/pcreposix.h:

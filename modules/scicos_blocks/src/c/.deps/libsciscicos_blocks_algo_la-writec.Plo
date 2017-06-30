@@ -48,7 +48,7 @@ src/c/libsciscicos_blocks_algo_la-writec.lo: src/c/writec.c \
  ../../modules/localization/includes/localization.h \
  /usr/include/libintl.h /usr/include/locale.h \
  /usr/include/x86_64-linux-gnu/bits/locale.h \
- includes/dynlib_scicos_blocks.h
+ includes/dynlib_scicos_blocks.h /usr/include/x86_64-linux-gnu/sys/time.h
 
 /usr/include/stdc-predef.h:
 
@@ -173,3 +173,5 @@ src/c/libsciscicos_blocks_algo_la-writec.lo: src/c/writec.c \
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
 includes/dynlib_scicos_blocks.h:
+
+/usr/include/x86_64-linux-gnu/sys/time.h:
