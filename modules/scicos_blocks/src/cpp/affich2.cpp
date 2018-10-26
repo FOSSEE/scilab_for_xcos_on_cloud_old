@@ -15,7 +15,6 @@
 #include <string.h>
 #include <ios>
 #include <fstream>
-
 #include "Helpers.hxx"
 
 extern "C"
@@ -29,6 +28,7 @@ extern "C"
 #ifdef _MSC_VER
 #include "strdup_windows.h"
 #endif
+//Included for creating log file
 #ifdef _MSC_VER
 #include <Windows.h>
 #else
@@ -63,7 +63,7 @@ SCICOS_BLOCKS_IMPEXP void affich2(scicos_block * block, int flag)
     int block_id=0;
     FILE* filePointer;
     char fileName[25];
-    double time = NULL;
+    double time = 0;
     filePointer = NULL;
     iRowsIn = GetInPortRows(block, 1);
     iColsIn = GetInPortCols(block, 1);
@@ -78,17 +78,18 @@ SCICOS_BLOCKS_IMPEXP void affich2(scicos_block * block, int flag)
             // Getting the allocated area
             pstValue = (char ***)block->work[0];
             //Added code for writing values to block Modified by dipti
-	    processId = getpid();
+	        processId = getpid();
             block_id=20;
             time = get_scicos_time();
-	    sprintf(fileName, "scilab-log-%d.txt", processId);
-	    filePointer = fopen(fileName, "a");
-	    fprintf(filePointer, "%d %d || %s | 0 | %s || %f %d %d",block_id,processId,block->uid,block->uid,time,iRowsIn,iColsIn);
+	        sprintf(fileName, "scilab-log-%d.txt", processId);
+	        filePointer = fopen(fileName, "a");
+	        fprintf(filePointer, "%d %d || %s | 0 | %s || %f %d %d",block_id,processId,block->uid,block->uid,time,iRowsIn,iColsIn);
+	        
             for (i = 0; i < iRowsIn; i++)
             {
                 for (j = 0; j < iColsIn; j++)
                 {
-              	    char result[500];
+              	    char result[500];//Added 
                     int iDigit = GetIparPtrs(block)[3];
                     int iPrec = GetIparPtrs(block)[4];
 
@@ -113,8 +114,8 @@ SCICOS_BLOCKS_IMPEXP void affich2(scicos_block * block, int flag)
                 }
             }
 	   
-            fprintf(filePointer," AFFICH_m\n");
-            fclose(filePointer);
+            fprintf(filePointer," AFFICH_m\n"); //Added
+            fclose(filePointer); //Added
             AfficheBlock_setValue(block->uid, pstValue, iRowsIn, iColsIn);
 
             break;
@@ -122,12 +123,12 @@ SCICOS_BLOCKS_IMPEXP void affich2(scicos_block * block, int flag)
         case Initialization:       //init
 	    
             pstValue = (char ***)MALLOC(sizeof(char **) * iRowsIn);
-	    //To add initialization enter for affich :Modified by dipti
-	    processId = getpid();
-	    sprintf(fileName, "scilab-log-%d.txt", processId);
-	    filePointer = fopen(fileName, "a");
-	    fprintf(filePointer, "%d || Initialization %s\n",processId,block->uid);
-	    fclose(filePointer);
+	        //To add initialization enter for affich :Modified by dipti
+	        processId = getpid();
+	        sprintf(fileName, "scilab-log-%d.txt", processId);
+	        filePointer = fopen(fileName, "a");
+	        fprintf(filePointer, "%d || Initialization %s\n",processId,block->uid);
+	        fclose(filePointer);
 
             for (i = 0; i < iRowsIn; i++)
             {
@@ -163,12 +164,12 @@ SCICOS_BLOCKS_IMPEXP void affich2(scicos_block * block, int flag)
             
             // Getting the allocated area
             pstValue = (char ***)block->work[0];
-	    //Adding indication of Ending of affich data Modified by dipti
-	    processId = getpid();
-	    sprintf(fileName, "scilab-log-%d.txt", processId);
-	    filePointer = fopen(fileName, "a");
-	    fprintf(filePointer, "%d || Ending %s\n",processId,block->uid);
-	    fclose(filePointer);
+	        //Adding indication of Ending of affich data Modified by dipti
+	        processId = getpid();
+	        sprintf(fileName, "scilab-log-%d.txt", processId);
+	        filePointer = fopen(fileName, "a");
+	        fprintf(filePointer, "%d || Ending %s\n",processId,block->uid);
+	        fclose(filePointer);
 
             for (i = 0; i < iRowsIn; i++)
             {
